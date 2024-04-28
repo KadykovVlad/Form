@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "default": "^0.1.1",
+    "pinia": "^2.1.7",
+    "vue-demi": "^0.14.7",
+    "vue-select": "^3.20.3",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "sass": "^1.75.0",
+    "sass-loader": "^10.5.2"
+  }
+}
